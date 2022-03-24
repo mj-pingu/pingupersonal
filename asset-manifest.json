@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pingupersonal/static/css/main.222e889e.css",
+    "main.js": "/pingupersonal/static/js/main.66c256bc.js",
+    "static/js/787.1d602832.chunk.js": "/pingupersonal/static/js/787.1d602832.chunk.js",
+    "static/media/logo.svg": "/pingupersonal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pingupersonal/index.html",
+    "main.222e889e.css.map": "/pingupersonal/static/css/main.222e889e.css.map",
+    "main.66c256bc.js.map": "/pingupersonal/static/js/main.66c256bc.js.map",
+    "787.1d602832.chunk.js.map": "/pingupersonal/static/js/787.1d602832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.222e889e.css",
+    "static/js/main.66c256bc.js"
+  ]
+}
